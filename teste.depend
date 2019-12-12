@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1574974612 source:e:\documentos\teste\main.c
+	<allegro.h>
+	<math.h>
+
+1576131837 source:c:\users\iasmi\documents\teste\main.c
+	<allegro.h>
+	<math.h>
+	<time.h>
+
+1576144185 source:c:\users\aguid\onedrive\Área de trabalho\jogonarutofinal-master\main.c
+	<allegro.h>
+	<math.h>
+	<time.h>
+
